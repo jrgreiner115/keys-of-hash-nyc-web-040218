@@ -13,3 +13,7 @@ class Hash
     new_array
   end
 end
+
+def prints_greetings(*greetings) 
+  puts "#{greetings}"
+end
